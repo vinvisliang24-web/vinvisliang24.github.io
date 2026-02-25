@@ -1,0 +1,22 @@
+before-after.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Before and After</title>
+</head>
+<body>
+
+    <h1>Before and After Images</h1>
+
+    <h2>Before</h2>
+    <img src="DSC00023.jpeg" alt="Before image" width="500">
+
+    <h2>After</h2>
+    <img src="Untitled-1.png" alt="After image" width="500">
+
+    <br><br>
+    <a href="index.html">Back to Homepage</a>
+
+</body>
+</html>
