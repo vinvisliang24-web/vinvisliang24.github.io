@@ -1,0 +1,37 @@
+/* Full page background */
+body {
+    background-color: #f5f5f5;
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #1a1a1a; /* Default text color */
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+}
+
+/* Link colors */
+a {
+    color: #0073e6; /* Link color */
+    text-decoration: none;
+}
+
+/* Changes text color and adds underline on mouse hover */
+a:hover {
+    color: #005bb5;
+    text-decoration: underline;
+}
+
+/* Heading styles */
+h1 {
+    color: #111111; /* Heading color */
+    font-size: 36px;
+    margin: 24px 0 8px;
+}
+h2 {
+    color: #333333; /* Subheading color */
+    font-size: 28px;
+    margin: 16px 0 8px;
+}
